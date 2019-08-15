@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>HomeTab.qml</file>
+        <file>MainTabView.qml</file>
+        <file>MainTableColumn.qml</file>
+        <file>StrategyTableView.qml</file>
+        <file>FamilyTableView.qml</file>
+    </qresource>
+</RCC>
